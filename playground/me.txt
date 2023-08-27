@@ -1,0 +1,5 @@
+{{#user}}
+Name: Vidhi
+Skills: HTML, CSS, JS, MERN, Python, Next.js
+Email: vidhitahariya95@gmail.com
+{{/user}}
